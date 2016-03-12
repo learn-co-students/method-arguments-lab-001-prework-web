@@ -1,7 +1,7 @@
-def method1(input)
-  puts "Hello, #{input}."
+def introduction(input)
+  puts "Hi, my name is #{input}.\n"
 end
 
-def method2(input1, input2)
-  puts "Hello, #{input1} + #{input2}."
+def introduction_with_language(input1, input2)
+  puts "Hi, my name is #{input1} and I am learning to program in #{input2}.\n"
 end
