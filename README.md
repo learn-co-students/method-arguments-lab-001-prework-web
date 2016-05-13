@@ -11,7 +11,7 @@ You'll be coding your methods in `lib/introduction.rb`.
 
 ### The `#introduction` Method
 
-Run the test suite to get started. Let's take a look at the first error:
+Run the test suite to get started. To do that, run `learn` or `learn test` in your terminal. Let's take a look at the first error:
 
 ```bash
 Failures:
@@ -114,3 +114,5 @@ Run the test again and we should be passing the first of our two tests. Use the 
 ### The `#introduction_with_language` Method
 
 Define a method, `#introduction_with_language` that takes in two arguments, `name` and `language` and outputs the phrase: `"Hi, my name is #{name} and I am learning to program in #{language}."
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/method-arguments-lab' title='Method Arguments Lab'>Method Arguments Lab</a> on Learn.co and start learning to code for free.</p>
